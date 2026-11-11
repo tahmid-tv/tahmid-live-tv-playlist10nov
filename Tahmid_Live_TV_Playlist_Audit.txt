@@ -1,0 +1,20 @@
+Tahmid Live TV - Playlist Processing Summary
+
+Final channel entries: 381
+1. Bangladesh: 84
+2. Hindi: 49
+3. Sports: 78
+4. Others: 170
+
+Removed:
+- 11 malformed entries whose channel names were browser User-Agent text.
+- 1 entry named Sony TV HD with a Cloudflare terms-of-service-abuse URL.
+- Duplicate stream URLs were removed where encountered.
+
+Logo handling:
+- Matched channel logos from the larger categorized playlist where a close channel-name match was available.
+- Remaining unmatched channels retain the logo URL supplied in the 394-channel list.
+- The 394-channel source uses one identical generic logo URL for all entries, so not every channel's logo could be confirmed as its official logo from the supplied files alone.
+
+Important live-status limitation:
+- Stream URLs were not tested for playback/HTTP availability in this environment. Therefore this file is a cleaned and organized selection, not a verified-live guarantee. A stream can still be offline, geo-blocked, or require authorization.
