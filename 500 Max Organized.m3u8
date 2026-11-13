@@ -1,0 +1,1002 @@
+#EXTM3U
+# NOTE: Channels are deduplicated and sorted; live stream availability could not be network-tested in this environment.
+#EXTINF:-1 tvg-id="QMwWnZUBtpl-Sbt7S2sx" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Bangladesh",& Pictures HD
+https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="5cwRnZUBtpl-Sbt7wWrN" tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png" group-title="Bangladesh",&TV HD
+https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ananda-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
+https://go.skym3u.dev/live/46228/050610480b7b1f561314466b710f54120a3d544116160e415b5670516c351c011822326e79394604292652281b674b26260a4d262877761a7f180c5461382502651e2d75130a135c02072b08067e086669601b2d2e0b1055604500257e5e3c032e165f443c773b10200310302e7d28255d3022403b313d32572e2c5763391a52646a063e06625b310f071a6256551a0f385702161b5c174c4331515a4c0d1a3b3a1d1b18562a084c06121a020a4771563a15.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ananda-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
+https://go.skym3u.dev/live/46228/050610480b7b1f561314466b710f54120a3d544116160e415b5670516c351c011822326e79394604292652281b674b26260a4d262877761a7f180c5461382502651e2d75130a135c02072b08067e086669601b2d2e0b1055604500257e5e3c032e165f443c773b10200310302e7d28255d3022403b313d32572e2c5763391a52646a063e06625b310f071a6256551a0f385702161b5c174c4331515a4c10063e3c0e4658136e515e5a140c01561c32012a5b46161e0d2605344552031a.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ananda-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
+https://go.skym3u.dev/live/46228/050610480b7b1f5b0a1211722c11471004321e0e1818110d585c385e3e17134b1c1a710e71530649041f184a013e5d093156551f181c5a31533a171c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ananda-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
+https://go.skym3u.dev/live/46228/05061048426e1f18021404713106540700715c06031c4c0c0a64265632351c3d4d263b54043e0f2b054b132b0b674a251b77042c277766696538156305110b1234343c5b150b1049012454403d6f491d6a632c54216f3a1f7b442c257d16130f00286f7f05771520312033232e600f586632231e0f23013e643a2b53635e5f525a0f5f313f667a6d70323d311750151a201d10161f1705551e38594106491b2d380c5b5a043151011118171917412b403a02084a05182a4f2d024512421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ananda-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f707e3a36240841327a5f28136f081f4018563c305d472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ananda-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f707e3a36240841327a5f28136f081f4018563c305d47365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="wCM3l5sBEef-9-uVXFvD" tvg-logo="https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangladesh",Ananda TV
+https://prod-linear-media.toffeelive.com/cdn/live/anandatv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-id="Ny61-JQBv9knK3AHgzZ7" tvg-logo="https://assets-prod.services.toffeelive.com/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp" group-title="Bangladesh",Animal Planet
+https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Ni61-JQBv9knK3AHcDYc" tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Bangladesh",Animal Planet HD
+https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/asian-tv.png?ref=skym3u.dev" provider="skym3u.dev",Asian TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70421401500e433a254c39187d163b26185337677e472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/asian-tv.png?ref=skym3u.dev" provider="skym3u.dev",Asian TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70421401500e433a254c39187d163b26185337677e47365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="MyK__poBEef-9-uVmf5l" tvg-logo="https://assets-prod.services.toffeelive.com/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="Bangladesh",Asian TV
+https://prod-linear-media.toffeelive.com/cdn/live/asian_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla.png?ref=skym3u.dev" provider="skym3u.dev",ATN Bangla
+https://go.skym3u.dev/live/46228/050610480b7b1f43151711316a4b540c0b3e430c1a09064157572b1d3e170b07141a2c5a20445f080816134b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla.png?ref=skym3u.dev" provider="skym3u.dev",ATN Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c0a111c7251093155580a43021c36593b0a4a1d326c266b730a5f0d0365464d060804.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla.png?ref=skym3u.dev" provider="skym3u.dev",ATN Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70532b0d07041b1327576e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla.png?ref=skym3u.dev" provider="skym3u.dev",ATN Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70626c1a573027130c010d2f5349051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN Bangla UK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla-uk.png?ref=skym3u.dev" provider="skym3u.dev",ATN Bangla UK
+https://go.skym3u.dev/live/46228/05061048426e1f18021404713106540700715c06031c4c0350443a1f3011020c1b5b2a422f0957080b1f0a1019725c0e391c471f1c565232182f03534a333620277e140701567540081b00411116553146.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN Bangla UK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla-uk.png?ref=skym3u.dev" provider="skym3u.dev",ATN Bangla UK
+https://go.skym3u.dev/live/46228/05061048426e1f18021404713106540700715c06031c4c0c0a64265632351c3d4d263b54043e0f2b054b132b0b674a251b77042c277766696538156305110b1234343c5b150b1049012454403d6f491d6a632c54216f3a1f7b442c257d16130f00286f7f05771520312033232e600f586632231e0f23013e643a2b53635e5f525a0f5f313f667a6d7032273e1b551a093a521609401d025e1f274445060519702f09540c0936431b5b14501a01112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png?ref=skym3u.dev" provider="skym3u.dev",ATN News
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c0a111c725d0d28411959415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png?ref=skym3u.dev" provider="skym3u.dev",ATN News
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c0a111c725d0d2841195a415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png?ref=skym3u.dev" provider="skym3u.dev",ATN News
+https://go.skym3u.dev/live/46228/05061048426e1f180a1400297215471a1d261e0e1d14060b14503b1f3011024b021b395d2419454808161d4a132b5d4531574318415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png?ref=skym3u.dev" provider="skym3u.dev",ATN News
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70563e5532282d35201928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-news-e0442addb4.png?ref=skym3u.dev" provider="skym3u.dev",ATN News
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70563e5532282d3520193519570507004613433e0247325d5a04404740715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-id="PC6F-JQBv9knK3AHlTUO" tvg-logo="https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp" group-title="Bangladesh",B4U Movies APAC
+https://prod-linear-media.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="PS6F-JQBv9knK3AHqjVz" tvg-logo="https://assets-prod.services.toffeelive.com/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp" group-title="Bangladesh",B4U Music
+https://prod-linear-media.toffeelive.com/cdn/live/b4u_music/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-tv-9e5f3366c8.png?ref=skym3u.dev" provider="skym3u.dev",Bangla TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0652525a6d6f511b4451661e5e4356010e575533532b154a0c1b102e4e6f0605135450180e0b32001d7156511d.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-tv-9e5f3366c8.png?ref=skym3u.dev" provider="skym3u.dev",Bangla TV
+https://go.skym3u.dev/live/46228/05061048426e1f1800001a71380d401101361e031c0f06407b53315533023a31235b09572f0c5a0733273d3a301b1c1833534d07074047715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-tv-9e5f3366c8.png?ref=skym3u.dev" provider="skym3u.dev",Bangla TV
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c09041c385f09724642465c1c5a31533a171c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-tv-9e5f3366c8.png?ref=skym3u.dev" provider="skym3u.dev",Bangla TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70016606005c461a1e5402285b0b593f181c366b47472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-tv-9e5f3366c8.png?ref=skym3u.dev" provider="skym3u.dev",Bangla TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70016606005c461a1e5402285b0b593f181c366b4747365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="JiK-_poBEef-9-uVZv6L" tvg-logo="https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangladesh",Bangla TV
+https://prod-linear-media.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png?ref=skym3u.dev" provider="skym3u.dev",Bangla Vision
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c09041c385f09295b4702015d1e6e183601565627713e6025411707052f5e50174316014e.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png?ref=skym3u.dev" provider="skym3u.dev",Bangla Vision
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f704638361f152517724477134149051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png?ref=skym3u.dev" provider="skym3u.dev",Bangla Vision
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70503e0d02091402224528045849051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/banglavision.png?ref=skym3u.dev" provider="skym3u.dev",Bangla Vision
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70503e0d0209140222452804584918010a06192c1e1e6e530544035c5d30192b1c1c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png?ref=skym3u.dev",Bijoy Tv
+https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bijoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Bijoy TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b295f2b044f3918053404102d1c0131565113405e002a0f7c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bijoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Bijoy TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f707c673b070a40022f41173e00152a47583701080347365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="bns4l5sBcqxnFHJBVZ32" tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangladesh",Bijoy TV
+https://prod-linear-media.toffeelive.com/cdn/live/bijoytv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Bijoy TV
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/boishakhi-tv.png?ref=skym3u.dev" provider="skym3u.dev",Boishakhi TV
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c090a1b2c5b09345a5d461a451e6e183601565627713e6025411707052f5e50174316014e.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/boishakhi-tv.png?ref=skym3u.dev" provider="skym3u.dev",Boishakhi TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70033b5010224c22085133390f223e073c3f3f6a04472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/boishakhi-tv.png?ref=skym3u.dev" provider="skym3u.dev",Boishakhi TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70033b5010224c22085133390f223e073c3f3f6a0447365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="bTV Action" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/btv-action.png?ref=skym3u.dev" provider="skym3u.dev",bTV Action
+https://go.skym3u.dev/live/46228/050610480b7b1f0552575a666e4b04425c7102574f41535f091d2f5e3e1a4a044540251532004f0b5f0645011729.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="BTV Chattogram" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/btv-chattogram.png?ref=skym3u.dev" provider="skym3u.dev",BTV Chattogram
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7066352437543217337d241f7e283a1026330a3d42472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="BTV Chattogram" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/btv-chattogram.png?ref=skym3u.dev" provider="skym3u.dev",BTV Chattogram
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7066352437543217337d241f7e283a1026330a3d4247365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="bTV Cinema" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/btv-cinema.png?ref=skym3u.dev" provider="skym3u.dev",bTV Cinema
+https://go.skym3u.dev/live/46228/050610480b7b1f0552575a666e4b04425c7102574f41535f091d2f5e3e1a4a044540221532004f0b5f0645011729.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="bTV Lady" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/btv-lady.png?ref=skym3u.dev" provider="skym3u.dev",bTV Lady
+https://go.skym3u.dev/live/46228/050610480b7b1f0552575a666e4b04425c7102574f41535f091d2f5e3e1a4a044541221532004f0b5f0645011729.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="BTV National" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/btv-national-2db28e10.png?ref=skym3u.dev" provider="skym3u.dev",BTV National
+https://go.skym3u.dev/live/46228/05061048426e1f180110027137175c110a264419581a0b0e575c3a5e71140a171e1139456f0f531043111f135c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/repaired-btv-news-0646349a43.png?ref=skym3u.dev" provider="skym3u.dev",BTV News
+https://go.skym3u.dev/live/46228/05061048426e1f180110027137175c110a264419581a0b0e575c3a5e71140a171e1139456f0f5310431d0e1201715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="mC6W-JQBv9knK3AHfDWA" tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" group-title="Bangladesh",Cartoon Network
+https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="1y6e-JQBv9knK3AHNDWb" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Bangladesh",Cartoon Network HD +
+https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="DYMI_58BJIOHmUelm3aK" tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png" group-title="Bangladesh",CGTN
+https://prod-linear-media.toffeelive.com/cdn/live/cgtn/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://i.postimg.cc/0ys4hMyd/20240822-230446.png?ref=skym3u.dev",Channel 24
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-24.png?ref=skym3u.dev" provider="skym3u.dev",Channel 24
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b285e20055803002c59512d3e511a705b5a0f0b4b1d32042a57114034263e602557501118.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-24.png?ref=skym3u.dev" provider="skym3u.dev",Channel 24
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b285e20055803002c59512d3e511a705e5d1d0b1c5037563101575f006d670c674b045b0d3e460d091e5c090b446c1344081d196c2a4b511013.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-24.png?ref=skym3u.dev" provider="skym3u.dev",Channel 24
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f706b2d3521234d133e5c2a0f5e49051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Channel 24
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c080d13315d0d331f5d4606571e6e183601565627713e6025411707052f5e50174316014e.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c080d13315d0d331f5d465f1c5a31533a171c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
+https://go.skym3u.dev/live/46228/05061048426e1f180a1400297215471a1d261e0e1d14060b14503b1f3011024b021b395d2419454808161d4a1137520631575846071c5a31533a171c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7074112b153c03331101070075235d433b1226175e472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7074112b153c03331101070075235d433b1226175e47365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31561b17483c54015b17061b16430a473b5b2b1d065b2258250e4e4801401e5d512c5811320141450a5645.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="qnv835oBcqxnFHJBuQcB" tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Bangladesh",Channel i
+https://prod-linear-media.toffeelive.com/cdn/live/channel_i/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 tvg-id="rYOv_p8BJIOHmUelrnXh" tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png" group-title="Bangladesh",Channel News Asia
+https://prod-linear-media.toffeelive.com/cdn/live/channels_news_asia/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="WyPuDJsBEef-9-uVUA_z" tvg-logo="https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangladesh",Channel S
+https://prod-linear-media.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="VC6Q-JQBv9knK3AHhTXt" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Bangladesh",CNN
+https://prod-linear-media.toffeelive.com/cdn/live/cnn/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="CRTV Sports and Entertainment" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/crtv-sports-and-entertainment-395b13f9b2.png?ref=skym3u.dev" provider="skym3u.dev",CRTV Sports and Entertainment
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d023a6e4b54160431571d1a0c1341564038086e5a575c5a043e542d02550a05050e4a112d471e004144041c471c2f5b3e165e5a2c2b7d3e630c0c571d3d4a0e51185c005d47.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dbc-news.png?ref=skym3u.dev" provider="skym3u.dev",DBC News
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c0f0711725d0d284119030a1e02705e310b574b71326026685a471f173b00164c091712.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dbc-news.png?ref=skym3u.dev" provider="skym3u.dev",DBC News
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c0f0711725d0d2841195a415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dbc-news.png?ref=skym3u.dev" provider="skym3u.dev",DBC News
+https://go.skym3u.dev/live/46228/05061048426e1f180a1400297215471a1d261e0e1d14060b14503b1f3011024b021b395d2419454808161d4a163d504531574318415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dbc-news.png?ref=skym3u.dev" provider="skym3u.dev",DBC News
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7042195553311e0e7b47071c66540d3e26143a2647472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dbc-news.png?ref=skym3u.dev" provider="skym3u.dev",DBC News
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7042195553311e0e7b47071c66540d3e26143a264747365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/deepto-tv.png?ref=skym3u.dev" provider="skym3u.dev",Deepto TV
+https://go.skym3u.dev/live/46228/05061048426e1f18011d04373b0259191c341e08051a0701175c3a46700b09165a102e53311f59121a5c020b163a4b46320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Deepto TV
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/desh-tv.png?ref=skym3u.dev" provider="skym3u.dev",Desh TV
+https://go.skym3u.dev/live/46228/050610480b7b1f561314466b710f54120a3d544116160e415b5670516c351c011822326e79394604292652281b674b26260a4d262877761a7f180c5461382502651e2d75130a135c02072b08067e086669601b2d2e0b1055604500257e5e3c032e165f443c773b10200310302e7d28255d3022403b313d32572e2c5763391a52646a063e06625b310f071a625650111d3e47154c1e06165d50391f5e0d001127710806005d7c43040c14501a17563a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/desh-tv.png?ref=skym3u.dev" provider="skym3u.dev",Desh TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f704026250e3d13107a5775286751013e0f064a6d0347365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="6Hz1PJwBcqxnFHJBhgkV" tvg-logo="https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangladesh",Desh TV
+https://prod-linear-media.toffeelive.com/cdn/live/desh_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-id="KS6x-JQBv9knK3AHwDZy" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Bangladesh",Discovery
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="KC6x-JQBv9knK3AHqjYc" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Bangladesh",Discovery HD
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="1i6e-JQBv9knK3AHHTXR" tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="Bangladesh",Discovery Kids
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="AS6s-JQBv9knK3AHDTZb" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Bangladesh",Discovery Science
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Ay6s-JQBv9knK3AHJTY1" tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp" group-title="Bangladesh",Discovery Turbo
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Disney Channel India" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-india.png?ref=skym3u.dev" provider="skym3u.dev",Disney Channel India
+https://go.skym3u.dev/live/46228/050610480b7b1f065b555a6e6e5c1b47546a1e5944435b5f0902704233021c4a14442c076e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/duronto-tv-2b3c7dd202.png?ref=skym3u.dev" provider="skym3u.dev",Duronto TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f0102707610312a2b2121666217445f080816134b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/duronto-tv-2b3c7dd202.png?ref=skym3u.dev" provider="skym3u.dev",Duronto TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f7004271a3f563b40247e37597d2426172953256b4347365c500e161d5532476b415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/duronto-tv-2b3c7dd202.png?ref=skym3u.dev" provider="skym3u.dev",Duronto TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7004271a3f563b40247e37597d2426172953256b4347365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="7oPt_p8BJIOHmUelhXWj" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Bangladesh",DW
+https://prod-linear-media.toffeelive.com/cdn/live/dw_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekattor-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ekattor TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7077082717334025385d260a443c29262907412f66472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekattor-tv.png?ref=skym3u.dev" provider="skym3u.dev",Ekattor TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7077082717334025385d260a443c29262907412f6647365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="PS_La5oBNnOkwJLWLRN_" tvg-logo="https://assets-prod.services.toffeelive.com/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="Bangladesh",Ekattor TV
+https://prod-linear-media.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="o3v235oBcqxnFHJBkAdC" tvg-logo="https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="Bangladesh",Ekhon TV
+https://prod-linear-media.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png?ref=skym3u.dev" provider="skym3u.dev",Ekushey TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0552545a6b7152075b576f04401d151042555b2957700f0c1310042051334469020915020b012b6c47335b420e0b4556314370035b453a2c272135185947403b00165a4e010f415c674519070102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png?ref=skym3u.dev" provider="skym3u.dev",Ekushey TV
+https://go.skym3u.dev/live/46228/050610480b7b1f561314466b710f54120a3d544116160e415b5670516c351c011822326e79394604292652281b674b26260a4d262877761a7f180c5461382502651e2d75130a135c02072b08067e086669601b2d2e0b1055604500257e5e3c032e165f443c773b10200310302e7d28255d3022403b313d32572e2c5763391a52646a063e06625b310f071a6256511f1b255b061b190449001c3b42504d17002d3a04585a0c31540a0d570e5c4c0a7c41341a0856005a2f5337.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png?ref=skym3u.dev" provider="skym3u.dev",Ekushey TV
+https://go.skym3u.dev/live/46228/05061048426e1f18060f012c37004c06002d460a07570000541d375e2c4e090c0311645a281d53160714194a2d3b560e365c471f311c5f36413a0a4456312b7c3f390f51071a2456020f5e5c090b446c1344081d196c2a4b511013.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png?ref=skym3u.dev" provider="skym3u.dev",Ekushey TV
+https://go.skym3u.dev/live/46228/05061048426e1f18060f012c37004c06002d460a07570000541d3a46290f0c13100725182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png?ref=skym3u.dev" provider="skym3u.dev",Ekushey TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70612632103d0f4c3875723f7449051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekushey-tv-d9479035b4.png?ref=skym3u.dev" provider="skym3u.dev",Ekushey TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f704b6b0e20332f3a0a54242561320e175d3f400f4447365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="EMAN TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/unused/emantv-1080p-b465ae9d98.png?ref=skym3u.dev" provider="skym3u.dev",EMAN TV
+https://go.skym3u.dev/live/46228/05061048426e1f1802120671370a4601576b07411b1c1740555b2957700608041b003d193107571f001a18115c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg?ref=skym3u.dev",Enter TV
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="-Xz3PJwBcqxnFHJBDAlE" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" group-title="Bangladesh",Eurosport HD
+https://prod-linear-media.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/unused/fashiontv-1080p-37cc035c2c.png?ref=skym3u.dev" provider="skym3u.dev",Fashion TV
+https://go.skym3u.dev/live/46228/05061048426e1f180510026e7107181601311e01100d4c0d5f563d506a5453484d472d016c5a07005c5e52034a661e586d02045a5903566c526f5b6d026f6f6363624104405d097b2f31421f055658325544174a196c2a5d16060e265d5c0057070a4f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="G4ML_58BJIOHmUelNXZr" tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png" group-title="Bangladesh",France 24
+https://prod-linear-media.toffeelive.com/cdn/live/france_24/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="0y_tDJsBNnOkwJLWNrdE" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Bangladesh",Global TV
+https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="0C63X5UBv9knK3AHxaOs" tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png" group-title="Bangladesh",HUM
+https://prod-linear-media.toffeelive.com/cdn/live/hum_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="T9O9X5UBm1RY_In7UXFv" tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Bangladesh",HUM Masala
+https://prod-linear-media.toffeelive.com/cdn/live/hum_masala/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="WtPBX5UBm1RY_In7mXEU" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Bangladesh",HUM Sitaray
+https://prod-linear-media.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/independent-tv.png?ref=skym3u.dev" provider="skym3u.dev",Independent TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b2258250e460302170e0b0600471e00535619415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/independent-tv.png?ref=skym3u.dev" provider="skym3u.dev",Independent TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b2258250e460302170e0b0600471e00535619415f5a295270065c573a2f363d341c5a003122453c555f424b5b59215e5c104a196c2a5d16060e265d5c0057070a4f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="ES_cZZsBNnOkwJLW1Oz1" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="Bangladesh",Independent TV
+https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="INTV Australia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/intv-australia-fca8e8409a.png?ref=skym3u.dev" provider="skym3u.dev",INTV Australia
+https://go.skym3u.dev/live/46228/050610480b7b1f4315555a363111435b08340a5e4c4a5640555b2957700a0b11035b2258250e4e4801401e5d512c5811320141450a5645.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="ay7uX5UBv9knK3AHs6TI" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Bangladesh",Investigation Discovery HD
+https://prod-linear-media.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="jehEA54BIxFjn23xAmdw" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="Bangladesh",Islamic TV
+https://prod-linear-media.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jamuna-tv.png?ref=skym3u.dev" provider="skym3u.dev",Jamuna TV
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c01041f2a5d09724642465f1c5a31533a171c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jamuna-tv.png?ref=skym3u.dev" provider="skym3u.dev",Jamuna TV
+https://go.skym3u.dev/live/46228/05061048426e1f180a1400297215471a1d261e0e1d14060b14503b1f3011024b021b395d2419454808161d4a183e5e1d3153191f181c5a31533a171c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jamuna-tv.png?ref=skym3u.dev" provider="skym3u.dev",Jamuna TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f707918073f2011357c47105f050201230002196e5947365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="PiL635oBEef-9-uV2uCe" tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="Bangladesh",Jamuna TV
+https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Lamore Rock Show WebTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/lamore-rock-show-webtv-720p-23e63ad29f.png?ref=skym3u.dev" provider="skym3u.dev",Lamore Rock Show WebTV
+https://go.skym3u.dev/live/46228/05061048426e1f18024a173b310c1b190c2955400716071d505530006c55514a071b2f44280c59545f455f4a02335211335b471f405e002a0f7c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png?ref=skym3u.dev",Maasranga
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0652525a6d6f511b4451661e5e43560e0e58412d533104044a01062a552a181b105d125a4a1f305d07715f071e561040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0652525a6d6f511b4451661e5e43560e0e58412d533104044a1c1a2f5339455b55194b481619265e5b2a1c500e18.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/050610480b7b1f43151711316a4b540c0b3e430c1a09064157572b1d3202041607152551201f4049051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/05061048426e1f180e1002712c105b05093a48411910150a167f1e730c31242b32356442330a550d1f5e1d54136e1c05305c5b4503004667142c044b5e6c2a7d37350f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/05061048426e1f180e1002712c105b05093a48411910150a167f1e730c31242b3235645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f705f3e021617141a2c57351d190f02170e1d5c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f705f3e021617141a2c57351d190f02170e1d5c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Maasranga TV
+https://tvsen6.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-id="-Xz3PJwBcqxnFHJBDAlE" tvg-logo="https://assets-prod.services.toffeelive.com/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="Bangladesh",Mohona TV
+https://prod-linear-media.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="CXz4PJwBcqxnFHJBPwrG" tvg-logo="https://assets-prod.services.toffeelive.com/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Bangladesh",Movie Bangla
+https://prod-linear-media.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="MRTV Farmer" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mrtv-farmer-32128806a9.jpg?ref=skym3u.dev" provider="skym3u.dev",MRTV Farmer
+https://go.skym3u.dev/live/46228/05061048426e1f180e1600293011415b06305d40161800075c1d12600b3548233426067313445b071f070e175c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="MRTV Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mrtv-sports-d111012fdd.png?ref=skym3u.dev" provider="skym3u.dev",MRTV Sports
+https://go.skym3u.dev/live/46228/05061048426e1f180e1600293011415b06305d40161800075c1d12600b354836253b19626e0657151816194b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/my-tv.png?ref=skym3u.dev" provider="skym3u.dev",My TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0652525a6d6f511b4451661e5e43560e164d44705b3107001d5b1978437948450d151e58105c3b561e.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/my-tv.png?ref=skym3u.dev" provider="skym3u.dev",My TV
+https://go.skym3u.dev/live/46228/050610480b7b1f561314466b710f54120a3d544116160e415b5670516c351c011822326e79394604292652281b674b26260a4d262877761a7f180c5461382502651e2d75130a135c02072b08067e086669601b2d2e0b1055604500257e5e3c032e165f443c773b10200310302e7d28255d3022403b313d32572e2c5763391a52646a063e06625b310f071a6256590d1a201e1612401d025e1f27444506051970360b51101d715d5c0041401c524b32012a4d010003.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/my-tv.png?ref=skym3u.dev" provider="skym3u.dev",My TV
+https://go.skym3u.dev/live/46228/05061048426e1f18021404713106540700715c06031c4c0c0a64265632351c3d4d263b54043e0f2b054b132b0b674a251b77042c277766696538156305110b1234343c5b150b1049012454403d6f491d6a632c54216f3a1f7b442c257d16130f00286f7f05771520312033232e600f586632231e0f23013e643a2b53635e5f525a0f5f313f667a6d703e2a240f19011e7b5c05044301104a54355d180f0d023a720a47120c311f020c0d15424c42725d39054b1601062e572c44460a0d0a070c012b1d056c470c481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/my-tv.png?ref=skym3u.dev" provider="skym3u.dev",My TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f706a12132d0430127b770f295e1054045d2b250d04472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/my-tv.png?ref=skym3u.dev" provider="skym3u.dev",My TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f706a12132d0430127b770f295e1054045d2b250d0447365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png?ref=skym3u.dev",Nagorik
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nagorik-tv-90b5d16aaf.png?ref=skym3u.dev" provider="skym3u.dev",Nagorik TV
+https://go.skym3u.dev/live/46228/05061048426e1f18010b0c713d0754070c3e1e01100d4c215855304036083a31235b3f4420085d1541055a0443705e07315d1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nagorik-tv-90b5d16aaf.png?ref=skym3u.dev" provider="skym3u.dev",Nagorik TV
+https://go.skym3u.dev/live/46228/05061048426e1f18010b0c713d0754070c3e1e01100d5957090a6c1d1102020a071d2069153d191005170e0a5c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="FHz5PJwBcqxnFHJBdAqW" tvg-logo="https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Bangladesh",Nexus TV
+https://prod-linear-media.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c051104720247365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f180a1400297215471a1d261e0e1d14060b14503b1f3011024b021b395d2419454808161d4a1c2b4547365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e081b190a38590c1d16101b175b311d1137334a191d3d536e085e130218070c012b6c1f6e06065b5c00076b066a415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f704a09570f203e12787278115549051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f704a09570f203e1278727811554918010a06192c1e1e6e530544035c5d30192b1c1c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f707817331d2d342324583b1f60130f0a085135257547365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
+https://go.skym3u.dev/live/46228/05061048426e1f185149122c2c48045b162b420a14140b004a463a4071000a085a042769705904495e435a5246671e596b01055b5f0b1e6e183c07475d34333a20245759471b6e101009141f574d1f305541.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="wHLVIJ4B7a1HdMSjaGLJ" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Bangladesh",NTV
+https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",NTV Europe
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV Europe" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv-europe.png?ref=skym3u.dev" provider="skym3u.dev",NTV Europe
+https://go.skym3u.dev/live/46228/05061048426e1f18021404713106540700715c06031c4c0c0a64265632351c3d4d263b54043e0f2b054b132b0b674a251b77042c277766696538156305110b1234343c5b150b1049012454403d6f491d6a632c54216f3a1f7b442c257d16130f00286f7f05771520312033232e600f586632231e0f23013e643a2b53635e5f525a0f5f313f667a6d703d27260c5f445e650051505c434a4b452655560e4b04333e1c591c162b1e02460c5b4c4a59265f6c164b011002.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="NTV Europe" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ntv-europe.png?ref=skym3u.dev" provider="skym3u.dev",NTV Europe
+https://go.skym3u.dev/live/46228/05061048426e1f18021404713106540700715c06031c4c0c0a64265632351c3d4d263b54043e0f2b054b132b0b674a251b77042c277766696538156305110b1234343c5b150b1049012454403d6f491d6a632c54216f3a1f7b442c257d16130f00286f7f05771520312033232e600f586632231e0f23013e643a2b53635e5f525a0f5f313f667a6d703d27260c5f445e650051505c434a4b452655560e4b18362900181a173859015a1717194c596f026c5057574445654535195307015c080d0731581b715f071e561040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="ny6W-JQBv9knK3AHujXC" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp" group-title="Bangladesh",POGO
+https://prod-linear-media.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="KECGB54BuUSiBsg_dHyj" tvg-logo="https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Bangladesh",Rajdhani TV
+https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/050610480b7b1f0652525a6d6f511b4451661e5e4356111b4f5a3b1d360d01000d5a260534531515070a06560771570d29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/050610480b7b1f43151711316a4b540c0b3e430c1a09064157572b1d0d17132d315b2258250e4e4801401e5d512c5811320141450a5645.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/050610480b7b1f561314466b710f54120a3d544116160e415b5670516c351c011822326e79394604292652281b674b26260a4d262877761a7f180c5461382502651e2d75130a135c02072b08067e086669601b2d2e0b1055604500257e5e3c032e165f443c773b10200310302e7d28255d3022403b313d32572e2c5763391a52646a063e06625b310f071a62564600187b40044c1e06165d50391f5e0d001127710806005d7c43040c14501a17563a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/05061048426e1f1809521a392a02401e06331e08051a0701175c3a4670170c09102b7d192c0a451209014508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70503e5752013d040f5d72385349051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31501b141c315100010d4d0c565f70602b152d215a1d25522413180b5f06534601344a056c471a0f0b45.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv.png?ref=skym3u.dev" provider="skym3u.dev",RTV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70402b154a110715285d324640570d4244081d315c462b411a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822_225533.png?ref=skym3u.dev",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",RTV
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="RTV Vida" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rtv-vida-a62ad38e90.png?ref=skym3u.dev" provider="skym3u.dev",RTV Vida
+https://go.skym3u.dev/live/46228/05061048426e1f18150d103e2d1143474b2b5f0b1a0a171d5c53325b31044b00065b275f370e19140d17020a04365709725759021d5a5c31432907561d326c266b730a5f0d0365464d060804.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="CNT2_p8BalKyvLQIBSUG" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Bangladesh",Russia Today
+https://prod-linear-media.toffeelive.com/cdn/live/russia_today/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="FdT9_p8BalKyvLQIpCUP" tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png" group-title="Bangladesh",Saudi Quran
+https://prod-linear-media.toffeelive.com/cdn/live/saudi_quran/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="JNQA_58BalKyvLQIhiVD" tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png" group-title="Bangladesh",Saudi Sunnah
+https://prod-linear-media.toffeelive.com/cdn/live/saudi_sunnah/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/somoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Somoy TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b38592c044f3918053404102d1c0131565113405e002a0f7c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/somoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Somoy TV
+https://go.skym3u.dev/live/46228/05061048426e1f180a140029330c43104b3e5802101d4e0d5d1f3040384d120a071f2e44324552031a5c180a1f304a452b441959415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Bangladesh" -1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/somoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Somoy TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f7006070014011a02014c2309755f3b1721244b385847365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Bangladesh",Somoy TV
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="xi6xX5UBv9knK3AH9aMk" tvg-logo="https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Bangladesh",Sony Aath
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="MC6C-JQBv9knK3AHUzUT" tvg-logo="https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="Bangladesh",Sony BBC Earth HD
+https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="2S5t-JQBv9knK3AHJTTW" tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Bangladesh",Sony Entertainment Television
+https://prod-linear-media.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="-y50-JQBv9knK3AHLzSn" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Bangladesh",Sony Entertainment Television HD
+https://prod-linear-media.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Ay52-JQBv9knK3AHFDWt" tvg-logo="https://assets-prod.services.toffeelive.com/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp" group-title="Bangladesh",Sony MAX
+https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Ii5_-JQBv9knK3AHLDV3" tvg-logo="https://assets-prod.services.toffeelive.com/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp" group-title="Bangladesh",Sony MAX 2
+https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Ai51-JQBv9knK3AH_jWs" tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Bangladesh",Sony MAX HD
+https://prod-linear-media.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Ly6C-JQBv9knK3AHOjXt" tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Bangladesh",Sony PIX HD
+https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="ES55-JQBv9knK3AHNDWC" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Bangladesh",Sony SAB HD
+https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="ra2x_pQBrjBfS2_RWG9l" tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Bangladesh",Sony Ten Cricket
+https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="py5j-JQBv9knK3AHxDTY" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp" group-title="Bangladesh",Sony Ten Sports 1 HD
+https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="sy5m-JQBv9knK3AHYTTk" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" group-title="Bangladesh",Sony Ten Sports 2 HD
+https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="vi5n-JQBv9knK3AHqzTC" tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Bangladesh",Sony Ten Sports 5 HD 
+https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="IC5_-JQBv9knK3AHFDXh" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Bangladesh",Sony YAY
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="7C6j-JQBv9knK3AHVzUA" tvg-logo="https://assets-prod.services.toffeelive.com/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp" group-title="Bangladesh",TLC
+https://prod-linear-media.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="7S6j-JQBv9knK3AHbzXC" tvg-logo="https://assets-prod.services.toffeelive.com/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" group-title="Bangladesh",TLC HD
+https://prod-linear-media.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="b60Ss5UBrjBfS2_RJPb8" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Bangladesh",Toffee Movies
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="DNMXs5UBm1RY_In7IJ72" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Bangladesh",Toffee TV
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_Serial/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="1YPq_p8BJIOHmUelSHXc" tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png" group-title="Bangladesh",TRT World
+https://prod-linear-media.toffeelive.com/cdn/live/trt_world/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="V__o054BObUt2AG6LL5C" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Bangladesh",WC Match Recap
+https://prod-linear-media.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="Pc3RD5YBtpl-Sbt7doxr" tvg-logo="https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png" group-title="Bangladesh",Zee Action
+https://prod-linear-media.toffeelive.com/cdn/live/zee_action/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="7x0Jd5YBEef-9-uVv_Gy" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="Bangladesh",Zee Anmol
+https://prod-linear-media.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Bangladesh",Zee Bangla
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="-C7MX5UBv9knK3AHdKOi" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Bangladesh",Zee Bangla Cinema
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="OnSlPJYBcqxnFHJB6lFX" tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png" group-title="Bangladesh",Zee Bollywood
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="U3QEd5YBcqxnFHJBpYzc" tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png" group-title="Bangladesh",Zee Cafe
+https://prod-linear-media.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="5y7HX5UBv9knK3AHs6Nk" tvg-logo="https://assets-prod.services.toffeelive.com/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png" group-title="Bangladesh",Zee Cinema HD
+https://prod-linear-media.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="ltPQX5UBm1RY_In7b3F1" tvg-logo="https://assets-prod.services.toffeelive.com/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png" group-title="Bangladesh",Zee TV HD
+https://prod-linear-media.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 tvg-id="DK8dd5YBrjBfS2_Ru22e" tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png" group-title="Bangladesh",Zing
+https://prod-linear-media.toffeelive.com/cdn/live/zing_sd/playlist.m3u8?edge-cache-token=Expires=1790676028~Starts=1790672428~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=iagz3VILXGv-MmFJTQ4HYPC-dchPrx8XzJo3U6zSu76u3w0ad-SZfPbzsaU3IrjjCrBqMT-jO6elwDx8TqHFAA
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/T3TrX75k/Calcutta-news.webp?ref=skym3u.dev",Calcutta News
+https://akdnetwork.com/cnnews/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla
+http://103.172.29.30:9991/stream/channelid/1759751142
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Colors Bangla
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e68571b475c71035f4f405a56081d2c462d0604085a1723572f05530a05174454456a0a5f6a03055f5c1040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Colors Bangla
+https://go.skym3u.dev/live/46228/050610480b7b1f47110119362a0841031671431f141a0640555b29577052240a101a7c532d1b03492514262f446f47051e531b52560b0b6d192b1c114034263e602557501118.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Colors Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f180005003c3710455b1c2a401f161d0d4157572b1d3e0e041f1a1a3d046e5800491c010e131b3a44473c5d58041c40513e593803535b3b703e32230d510641355b160c061e0d4b457a5d04165c572c341c58461071540a03.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
+http://103.172.29.30:9991/stream/channelid/14180834
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-bangla-cinema.png?ref=skym3u.dev" provider="skym3u.dev",Colors Bangla Cinema
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e68571b475c71035f4f405a56081d2c462d0604085a1723572f05530a05174454466e0b58670100481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Kolkata TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/kolkata-tv.png?ref=skym3u.dev" provider="skym3u.dev",Kolkata TV
+https://go.skym3u.dev/live/46228/05061048426e1f1800001a71301141190c29554116164d06571d345d3308041114003d1928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="R Plus" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/r-plus.png?ref=skym3u.dev" provider="skym3u.dev",R Plus
+https://go.skym3u.dev/live/46228/05061048426e1f18170c11333a025c01152d5f411c174c1f5746291d2d130910061a2e413259021e5b5c020b163a4b46320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="R Plus Gold" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/r-plus-gold.png?ref=skym3u.dev" provider="skym3u.dev",R Plus Gold
+https://go.skym3u.dev/live/46228/05061048426e1f18150318362900460604361e0e1e180e0e50483a56710d00115a072c19375a190b0d001f00007005596e5603520c02023d00680a00556a68626a634d521056665002535943570c04670700510517687006534d5d6c540e465405565f0772063c54554817442e506c0905070f410e57133b020d6c1d5d050a564b715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="R Plus Gold" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/r-plus-gold.png?ref=skym3u.dev" provider="skym3u.dev",R Plus Gold
+https://go.skym3u.dev/live/46228/05061048426e1f18150318362900460604361e0e1e180e0e50483a56710d00115a072c19375a190b0d1d0203172c47476903050f590a516e063d5805566d3966646140074008320b53010c435009026005045453463e3c521a160367085c111850425f0b39077257065245592906240d1b045f120857176d520c6e5707445b06066d52395e511e3a3a6b327d4d03405d7b0b50505c5f5400536606070757166e39561a454b32031a4d5a1004405f6c4771070013.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="R Plus Gold" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/r-plus-gold.png?ref=skym3u.dev" provider="skym3u.dev",R Plus Gold
+https://go.skym3u.dev/live/46228/05061048426e1f18170c11333a025c01152d5f411c174c1f5746291d2d130910061a2e413259021e5b5c1f17133c581b7244050a5f1c5e305930415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/Bnh1fq0X/RPlus-News-logo-2017.webp?ref=skym3u.dev",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Ruposhi Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ruposhi-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Ruposhi Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f1807054c6932544604153203004557000356473b542d0c0b115b1a2e426e590e565b415b5741704005365e0e191b43522c5f360d535d3833327d23145d1841265f021b011b174c1f3903425b470734260806004b3b5519.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Ruposhi Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ruposhi-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Ruposhi Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f180e11192b6f501b0104315700010f4d06571d6705110624290d461963112a652f2e3225223e1e1c0131565113405e002a0f7c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Ruposhi Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ruposhi-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Ruposhi Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f180e11192b6f501b0104315700010f4d06571d6705110624290d461963112a652f2e3225223e1e1c1c2d5357001d1e456e566e405f5c31307d3e630c0c571d3d4a0e51185c005d47.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png?ref=skym3u.dev",Sony Aath
+https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-aath.png?ref=skym3u.dev" provider="skym3u.dev",Sony Aath
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b38592f1269070d07033a133d4147365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jalsha
+http://103.172.29.30:9991/stream/channelid/1796880303
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-jalsha.png?ref=skym3u.dev" provider="skym3u.dev",Star Jalsha
+https://go.skym3u.dev/live/46228/05061048426e1f180005003c3710455b1c2a401f161d0d4157572b1d3e0e041f1a1a3d046e5800491c010e131b3a44472c46551904525f2c5f3e405f522c2b36217f1a5c01003d5f0a11195c090b446c1344081d196c2a4b511013.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-jalsha.png?ref=skym3u.dev" provider="skym3u.dev",Star Jalsha
+https://go.skym3u.dev/live/46228/05061048426e1f1807054c6932544604153203004557000356473b542d0c0b115b1a2e426e590e565b415b5741704005365e0e181a52413556331c5a52712c3e3a3c56571c1b38580f0b1e063b5a006d020f535444713256404d462c5b16184a16415d5729.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/j5xkWsRS/star-jalsa.png?ref=skym3u.dev",Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Sun Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sun-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Sun Bangla
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f010270610a2d4827343a0c7a00445f080816134b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/D0KSP0qB/Zee-24-Ghanta-2025-Logo-2025.webp?ref=skym3u.dev",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Zee 24 Ghanta" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-24-ghanta.png?ref=skym3u.dev" provider="skym3u.dev",Zee 24 Ghanta
+https://go.skym3u.dev/live/46228/05061048426e1f180756102c301c431e176c0302454c4d0c555d2a5639110a0b015a255335445f080816133a47715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Zee Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b315324345407021407042d680158705b5a0f0b4b1d32042a57114034263e602557501118.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Zee Bangla
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f70683a0627041b1327576e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png?ref=skym3u.dev",Zee Bangla Cinema
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://i.postimg.cc/wjWkWhzp/Zee-bangla.png?ref=skym3u.dev",Zee Bangla HD
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Zee Bangla Sonar" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png?ref=skym3u.dev" provider="skym3u.dev",Zee Bangla Sonar
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f010270681a264827343a0c7a0046752f223626245d365d0c3a4a1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Zee Bangla Sonar" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png?ref=skym3u.dev" provider="skym3u.dev",Zee Bangla Sonar
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b315324345407021407042d3c5a063a5f55340f5141705e310b574b71326026685a471f173b00164c091712.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1 tvg-name="Zee Bangla Sonar" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-sonar.png?ref=skym3u.dev" provider="skym3u.dev",Zee Bangla Sonar
+https://go.skym3u.dev/live/46228/05061048426e1f180755136728025f00172508191c184d0c555d2a5639110a0b015a255335445416075e1f135d1c5c04304047232a1c573a513e1a5e47701c3c3f3f0b473c2a785e501755511753483903424d001129.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Bangla" -1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="&TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tv.png?ref=skym3u.dev" provider="skym3u.dev",&TV
+https://go.skym3u.dev/live/46228/050610480b7b1f59060b063c2e01465b113040554d495b5f16066d066e54535646467c02705e0551595c0d574269500d3b05525208511c6a046c5801102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="&TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tv.png?ref=skym3u.dev" provider="skym3u.dev",&TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b2a5825344210331b0f3a133d4147365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/ZnTTqdP5/Aaj-Tak-HD-v2.webp?ref=skym3u.dev",Aaj Tak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Anand TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/anand-tv.png?ref=skym3u.dev" provider="skym3u.dev",Anand TV
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d023a710950120c2b401d1a570000175b311d3e0d040b11003d1928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Asian Sony Max 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max-2.png?ref=skym3u.dev" provider="skym3u.dev",Asian Sony Max 2
+https://go.skym3u.dev/live/46228/050610480b7b1f510c1600297106564f5d6f085f5a150a195c1d2656692b501c1746207d6e05440d3a1759000a6c6b476e00015c57061d2b447c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="B4U Bhojpuri Plus" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-bhojpuri-plus.png?ref=skym3u.dev" provider="skym3u.dev",B4U Bhojpuri Plus
+https://go.skym3u.dev/live/46228/05061048426e1f180007592b6d08401111345d1a0f4d140d1753345332020c1f10106558241f19105d5c0604012b561a700103595c50056f56675e07506e666a37691a041108650500570f45575c506208565556166f6601045a063c1d1b4714160b4d593247255712075a367f631e295e0906031e171b705e092c465119405e002a0f7c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-kadak.png?ref=skym3u.dev" provider="skym3u.dev",B4U Kadak
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e08465b113e5e081a0d1541505c70706b362e24313500190e397f21253d440c1c3b5610715f071e561040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png?ref=skym3u.dev",B4U Movie
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-movies.png?ref=skym3u.dev" provider="skym3u.dev",B4U Movies
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b290234345b091a1a0e162d3e511a705b5a0f0b4b1d32042a57114034263e602557501118.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="B4U Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-movies.png?ref=skym3u.dev" provider="skym3u.dev",B4U Movies
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e08465b113e5e081a0d1541505c70706b36282a233d0e656e24642f2b3a254a1b31570d271c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/0N2VWksB/channels4-profile.jpg?ref=skym3u.dev",B4U Music
+https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="B4U Music" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-music.png?ref=skym3u.dev" provider="skym3u.dev",B4U Music
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e08465b113e5e081a0d1541505c70706b362830263d08190e397f21253d440c1c3b5610715f071e561040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Colors Cineplex [UK]" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex-uk.png?ref=skym3u.dev" provider="skym3u.dev",Colors Cineplex [UK]
+https://go.skym3u.dev/live/46228/05061048426e1f180755063c67535b02123c0909141e4d0c555d2a5639110a0b015a2553354404505c4459565d2c5e01330846021d5b473a4e3c065c562f33362b251250111878400e0b015d0750443a5b5b0a1700003d540c475d6f005f5b14501a01112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex-bollywood.png?ref=skym3u.dev" provider="skym3u.dev",Colors Cineplex Bollywood
+https://go.skym3u.dev/live/46228/050610480b7b1f5b0a1211713d0459140f36521d1a18070d585c3b1c3c0c085f46417b066e075f10095c5a52446c1d056c470c481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Colors Cineplex Superhits" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex-superhits-576p.png?ref=skym3u.dev" provider="skym3u.dev",Colors Cineplex Superhits
+https://go.skym3u.dev/live/46228/050610480b7b1f5b0a1211713d0459140f36521d1a18070d585c3b1c3c0c085f46417b066e075f10095c5a51476f1d056c470c481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="DD India" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-india.png?ref=skym3u.dev" provider="skym3u.dev",DD India
+https://go.skym3u.dev/live/46228/05061048426e1f180757052c6c0107070e37561e070d4d0c555d2a5639110a0b015a255335445913185c1d545d3c560c3e03005e56000768006b5d04523e6e6561314f01475764575b070c425317583a54521b4a196c2a5d16060e265d5c0057070a4f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="DD India" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-india.png?ref=skym3u.dev" provider="skym3u.dev",DD India
+https://go.skym3u.dev/live/46228/05061048426e1f180e11193d3e0c1810013855410614021d4d4233532617134b1c1a6472052258020512440c1c3b5610715f071e561040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://imgur.com/79g2kMA.png",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://imgur.com/79g2kMA.png",DD National
+http://103.172.29.30:9991/stream/channelid/928216456
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://imgur.com/79g2kMA.png",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="DD National" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-national.png?ref=skym3u.dev" provider="skym3u.dev",DD National
+https://go.skym3u.dev/live/46228/05061048426e1f180757052c6c0107070e37561e070d4d0c555d2a5639110a0b015a255335445913185c1d545d6b035c6600555d5a50023b556b0e0300676a31326118074d593200565509410517583a54521b4a196c2a5d16060e265d5c0057070a4f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="DD National" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-national.png?ref=skym3u.dev" provider="skym3u.dev",DD National
+https://go.skym3u.dev/live/46228/05061048426e1f180e11193d3e0c1810013855410614021d4d4233532617134b1c1a647205255712051c05041e705a063b574c4503004667142c044b5e6c2a7d37350f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Entertainment Television (SET)
+http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Entertainment TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-entertainment-tv.png?ref=skym3u.dev" provider="skym3u.dev",Sony Entertainment TV
+https://go.skym3u.dev/live/46228/050610480b7b1f045b4a4d697154024d4b6d005a5a2a2c21607a1b1d360d01000d5a260534531515070a06560771570d29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony entertainment tv" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-entertainment-tv.png?ref=skym3u.dev" provider="skym3u.dev",Sony entertainment tv
+https://go.skym3u.dev/live/46228/050610480b7b1f45040f1f2871095c0300705c06031c4c5e785d3a5c68060915405b02510c210056181e2a045d6e075c714647481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Entertainment TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-entertainment-tv.png?ref=skym3u.dev" provider="skym3u.dev",Sony Entertainment TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b38592f1269030207340d1600520a2d1d5d050a564b715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Entertainment TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-entertainment-tv.png?ref=skym3u.dev" provider="skym3u.dev",Sony Entertainment TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b38592f126903020734161600520a2d1d5d050a564b715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png?ref=skym3u.dev",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png?ref=skym3u.dev" provider="skym3u.dev",Sony Max
+https://go.skym3u.dev/live/46228/050610480b7b1f45040f1f2871095c0300705c06031c4c5e785d3a5c68060915405b02510c210056181e2a045d6e0659714647481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png?ref=skym3u.dev" provider="skym3u.dev",Sony Max
+https://go.skym3u.dev/live/46228/050610480b7b1f510c1600297106564f5d6f085f5a150a195c1d2656692b501c1746207d6e05440d3a1759000a6c6b476e0001535f071d2b447c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png?ref=skym3u.dev" provider="skym3u.dev",Sony Max
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b265739345e02331209175d365d0c3a4a1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Max" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max.png?ref=skym3u.dev" provider="skym3u.dev",Sony Max
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b38592f12690b0d0b34161600520a2d1d5d050a564b715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png?ref=skym3u.dev",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max-2.png?ref=skym3u.dev" provider="skym3u.dev",Sony Max 2
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b2657393404390d11194a1b31570d271c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max-2.png?ref=skym3u.dev" provider="skym3u.dev",Sony Max 2
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b2657393404390d11194a1e36450d705f551331016c68056f40515b2a3138207e140701567540081b00411116553146.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png?ref=skym3u.dev",Sony Max HD
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony PAL" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-pal.png?ref=skym3u.dev" provider="skym3u.dev",Sony PAL
+https://go.skym3u.dev/live/46228/050610480b7b1f5b0a1211713d0459140f36521d1a18070d585c3b1c3c0c085f46417b066e075f10095c5f5246715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Sony SAB" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-sab.png?ref=skym3u.dev" provider="skym3u.dev",Sony SAB
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b384323345e02331209175d365d0c3a4a1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png?ref=skym3u.dev",Sony Sab HD
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Star Bharat" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-bharat.png?ref=skym3u.dev" provider="skym3u.dev",Star Bharat
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f010270610b223748373c0a64003f190f02170e1d5c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-cinema.png?ref=skym3u.dev" provider="skym3u.dev",Zee Cinema
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b31532434550f021606042d3757373e504644075d573a4f71020146677c20382914070140325615.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-cinema.png?ref=skym3u.dev" provider="skym3u.dev",Zee Cinema
+https://go.skym3u.dev/live/46228/05061048426e1f180755136728025f00172508191c184d0c555d2a5639110a0b015a255335445416075e1f135d11742b17761b0f0b55522a5b2b407c741c17177d3d4a414c4d25581a0f5e074a5c5422.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png?ref=skym3u.dev",Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png?ref=skym3u.dev",Zee Tv
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/repaired-zee-tv-b659c984ad.png?ref=skym3u.dev" provider="skym3u.dev",Zee TV
+https://go.skym3u.dev/live/46228/050610480b7b1f03524a466f6a4b0c464b6e055b5a23262a1466091d360d01000d5a260534531515070a06560771570d29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1 tvg-name="Zee TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/repaired-zee-tv-b659c984ad.png?ref=skym3u.dev" provider="skym3u.dev",Zee TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b315324344210331b0f3a133d4147365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Indian Hindi" -1  tvg-logo="https://imgur.com/79g2kMA.png",Zee TV (HD Feed)
+http://103.172.29.30:9991/stream/channelid/65857522
+#EXTINF:-1 group-title="Sports" -1 tvg-name="A Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/a-sports-65a3e1d8fd.png?ref=skym3u.dev" provider="skym3u.dev",A Sports
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f704829555d0a04240f4376266c3c1b1e230d202747472b40550805401e29063e5e1d5e30313c7d240a1a195d230b4011060b090b447a545215.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png?ref=skym3u.dev",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ACI Sport TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/aci-sport-tv-1cac42a81a.png?ref=skym3u.dev" provider="skym3u.dev",ACI Sport TV
+https://go.skym3u.dev/live/46228/05061048426e1f181401162c2b17501408715d1a190d0a1c4d403a53324d0c115a192e5b271819035e100956446d0a453c03555943070a6a55720d06003e726a36324a0c420866070606555c090b446c1344081d196c2a4b511013.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-1-725b778c57.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport 1
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c0417101a2a4531044412430307040b335a1b2b1c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport 1 Premium (Serbia)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-1-premium-serbia-e0c0ac701c.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport 1 Premium (Serbia)
+https://go.skym3u.dev/live/46228/050610480b7b1f43060811343008460707365a0a5b1a0c0203006f0b6a4c1509140d645a291b5c0b07153d1c1a107d5915735d312d4b04295a0d0b5e76173e321e3128752519657f31230c191456563c727a173641682c3d6d12291a6835334104397d112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport 1 Premium (Slovenia)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-1-premium-slovenia-e0c0ac701c.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport 1 Premium (Slovenia)
+https://go.skym3u.dev/live/46228/050610480b7b1f43060811343008460707365a0a5b1a0c0203006f0b6a4c1509140d645a291b5c0b07153d1c1a107d5915735d312d4b04295f0823565815006010602b6e131d6264525b181a080062675b6253082b006b364d3037357622311e003b0f112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-2-1f37fbeb06.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport 2
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c0417101a2a453104441233171d045d2f5f09265e5d181a1d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport Premium M1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-premium-m1-e4a57ae24e.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport Premium M1
+https://go.skym3u.dev/live/46228/050610480b7b1f43060811343008460707365a0a5b1a0c0203006f0b6a4c1509140d645a291b5c0b07153d1c1a107d5915735d312d4b042950290557002b72193a21180110576269210f26331569561d764f0f4937376927064200184004233d015d01112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport Premium M2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-premium-m2-8e305c428f.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport Premium M2
+https://go.skym3u.dev/live/46228/050610480b7b1f43060811343008460707365a0a5b1a0c0203006f0b6a4c1509140d645a291b5c0b07153d1c1a107d5915735d312d4b042950290557002b72193a21180110576269210f2633156a036143612d2b0126355c02063006080e3f3b25090d112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Arena Sport Premium M3" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/arena-sport-premium-m3-fb932579db.png?ref=skym3u.dev" provider="skym3u.dev",Arena Sport Premium M3
+https://go.skym3u.dev/live/46228/050610480b7b1f43060811343008460707365a0a5b1a0c0203006f0b6a4c1509140d645a291b5c0b07153d1c1a107d5915735d312d4b042950290557002b72193a21180110576269210f2633156b672605645a3b15000b2b5a2a1638070830481a1971112c59260e56105b102e40.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="AS3 Sport TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/as3-sport-tv-9b8dc8f78a.jpg?ref=skym3u.dev" provider="skym3u.dev",AS3 Sport TV
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e0841034b3e435c06090c1d4d1c305c330a0b004f47780f75445e1f0e0102015d2f5f09261c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Astrahan.Ru Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/astrahan-ru-sport-8c965f341f.png?ref=skym3u.dev" provider="skym3u.dev",Astrahan.Ru Sport
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e085c1b0271511c010b02045153311c2d164a04060039572a0357081e0618151d2d47003b1d44070f4a5f36442b415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="AyM Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/aym-sports-5a1982930f.png?ref=skym3u.dev" provider="skym3u.dev",AyM Sports
+https://go.skym3u.dev/live/46228/050610480b7b1f06555c5a6e66531b4457681e5e464e595909026e1d2f0f041c5a157b0037445f080816134b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Bahrain Sports 2
+https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png?ref=skym3u.dev",Bein Sports 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/FzGdttZ1/20250120_193818.png?ref=skym3u.dev",Bein Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/B6TPgPPT/20250120_193903.png?ref=skym3u.dev",Bein Sports 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Bein Sports xtra" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bein-sports-xtra.png?ref=skym3u.dev" provider="skym3u.dev",Bein Sports xtra
+https://go.skym3u.dev/live/46228/05061048426e1f1801011d3172004605482745021a5702025855361c2b154a151915325a281842345b415b355c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bein-sports-xtra.png?ref=skym3u.dev" provider="skym3u.dev",beIN SPORTS XTRA
+https://go.skym3u.dev/live/46228/05061048426e1f1801011d3172004605482745021a5702025855361c2b154a151915325a281842345d43535502715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bein-sports-xtra.png?ref=skym3u.dev" provider="skym3u.dev",beIN SPORTS XTRA
+https://go.skym3u.dev/live/46228/05061048426e1f1801011d31721d41070472520a1c174d0e5453385b7117134a05182a4f2d024512421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 2 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-2-sk-430a3721ba.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 2 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276256581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 3 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-3-sk-0f6ba1bda5.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 3 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276356581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 4 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-4-sk-e97029935f.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 4 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276456581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 5 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-5-sk-609ac24858.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 5 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276556581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 6 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-6-sk-7f3a567411.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 6 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276656581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 7 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-7-sk-177b54a908.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 7 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276756581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport 8 SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-8-sk-1d0abb2873.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport 8 SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021276856581d18336c0517011e0c5c12275b4e0e5701713b0043.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Canal+ Sport SK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-sk-0d5ef8dd23.svg?ref=skym3u.dev" provider="skym3u.dev",Canal+ Sport SK
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c080817724003725155050f5f1e2f5b2a1c1f402f3021277f155d020b0955160e011a001b423f495a50115a3b3a13.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="CCTV-Storm Football" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cctv-storm-football-fdb27d3db1.png?ref=skym3u.dev" provider="skym3u.dev",CCTV-Storm Football
+https://go.skym3u.dev/live/46228/050610480b7b1f045b4a436a715406434b6e03584f405b405e4133507007160104043e546e0d4f1c1d5d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/claro-sports-1f0c0ac492.png?ref=skym3u.dev" provider="skym3u.dev",Claro Sports
+https://go.skym3u.dev/live/46228/050610480b7b1f06555c5a6e66531b4457681e5e464e595909026e1d2f0f041c5a157b0e33445f080816134b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cricket-gold.png?ref=skym3u.dev" provider="skym3u.dev",Cricket Gold
+https://go.skym3u.dev/live/46228/05061048426e1f1807551a356b10064c0f3e040c1b494d0c555d2a5639110a0b015a255335444057431e0a16063a41476656045d5c06076e516d095400663d6630601f004c0c610750015b465509556605515556123c6d501a33290c1d2200012a3f14712d5b3c080011321b27526e5f075e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cricket-gold.png?ref=skym3u.dev" provider="skym3u.dev",Cricket Gold
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f707f6d345730274072522c0e7d04361d060120257d47365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Cricket Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="CT Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ct-sport-15eee9292c.png?ref=skym3u.dev" provider="skym3u.dev",CT Sport
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c061106042444353404531c5c1b0913265f012c461a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="DD Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-sports-fb997548.png?ref=skym3u.dev" provider="skym3u.dev",DD Sports
+https://go.skym3u.dev/live/46228/05061048426e1f180757052c6c0107070e37561e070d4d0c555d2a5639110a0b015a255335445913185c1d545d3d025f3e56520e5b07006c026b095657673b626b691b05455e6002540109160017583a54521b4a196c2a5d16060e265d5c0057070a4f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eleven-sports-1-bd5e086a03.png?ref=skym3u.dev" provider="skym3u.dev",Eleven Sports 1
+https://go.skym3u.dev/live/46228/050610480b7b1f0e514a456e6b4b0d404b6707554d49535d16423353264c04554511645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eleven-sports-2-161fe39928.png?ref=skym3u.dev" provider="skym3u.dev",Eleven Sports 2
+https://go.skym3u.dev/live/46228/050610480b7b1f0e514a456e6b4b0d404b6707554d49535d16423353264c04554512645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eleven Sports 3" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eleven-sports-3-98ba597232.png?ref=skym3u.dev" provider="skym3u.dev",Eleven Sports 3
+https://go.skym3u.dev/live/46228/050610480b7b1f0e514a456e6b4b0d404b6707554d49535d16423353264c04554513645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eleven-sports-4-f285951d2f.png?ref=skym3u.dev" provider="skym3u.dev",Eleven Sports 4
+https://go.skym3u.dev/live/46228/050610480b7b1f0e514a456e6b4b0d404b6707554d49535d16423353264c0455451c645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn.png?ref=skym3u.dev" provider="skym3u.dev",ESPN
+https://go.skym3u.dev/live/46228/050610480b7b1f065b555a68674b044c527105564f41535f091d2f5e3e1a4a044543311928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN (United States)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn-united-states-a00882a662.png?ref=skym3u.dev" provider="skym3u.dev",ESPN (United States)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f564a466c684b0d4c4b6e065f4f405656091d2a413e4e164a30271b786c237249051d0f000a715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN 2 (United States)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn-2-united-states-7a4d2daafc.png?ref=skym3u.dev" provider="skym3u.dev",ESPN 2 (United States)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f564a466c684b0d4c4b6e065f4f405656091d2a413e4e164a30271b786c591b2e285c020b163a4b46320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN 4 (Brazil)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn-4-brazil-69bc00e492.png?ref=skym3u.dev" provider="skym3u.dev",ESPN 4 (Brazil)
+https://go.skym3u.dev/live/46228/050610480b7b1f065b555a68674b044c527105564f41535f091d2f5e3e1a4a044543251928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN Latin America Colombia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn-latin-america-colombia-a00882a662.png?ref=skym3u.dev" provider="skym3u.dev",ESPN Latin America Colombia
+https://go.skym3u.dev/live/46228/050610480b7b1f065a545a696e4b01424b6a04554d49535f16423353264c04554540645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN Latin America Mexico" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn-latin-america-mexico-a00882a662.png?ref=skym3u.dev" provider="skym3u.dev",ESPN Latin America Mexico
+https://go.skym3u.dev/live/46228/050610480b7b1f06555c5a6d6d5d1b415171025b44435a560005704233021c4a14447d466e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPN8: The Ocho" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espn8-the-ocho-1080p-76369a61db.png?ref=skym3u.dev" provider="skym3u.dev",ESPN8: The Ocho
+https://go.skym3u.dev/live/46228/05061048426e1f18075716692e575a00503440571e1c4d0c555d2a5639110a0b015a2553354473353c3d3f0d17105000301c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/espnu-720p-da06a20f5d.png?ref=skym3u.dev" provider="skym3u.dev",ESPNU
+https://go.skym3u.dev/live/46228/050610480b7b1f0f564a466c684b0d4c4b6e065f4f405656091d2a413e4e164a30271b786c3e1b2e285c020b163a4b46320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png?ref=skym3u.dev",Euro Sports HD
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eurosport 1 Hungary" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eurosport-1-hungary-c6b159f423.png?ref=skym3u.dev" provider="skym3u.dev",Eurosport 1 Hungary
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06405c412f03000b100b5a1d25522413180b5f06534601344a056c471a0f0b45.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eurosport 2 Hungary" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eurosport-2-hungary-8efd938536.png?ref=skym3u.dev" provider="skym3u.dev",Eurosport 2 Hungary
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06405c412f00000b100b5a1d25522413180b5f06534601344a056c471a0f0b45.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Eurosport 4K Czechia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eurosport-4k-czechia-1a359dc9dd.png?ref=skym3u.dev" provider="skym3u.dev",Eurosport 4K Czechia
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16572c4200570e3a140020193107571f001a18115c32001d67114700175e002a193b0a44.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/fox-sports.png?ref=skym3u.dev" provider="skym3u.dev",Fox Sports
+https://go.skym3u.dev/live/46228/050610480b7b1f06505c5a6a664b07475271025f4f41535f091d2f5e3e1a4a04454c7e1928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/fox-sports-1.png?ref=skym3u.dev" provider="skym3u.dev",Fox Sports 1
+https://go.skym3u.dev/live/46228/050610480b7b1f0f564a466c684b0d4c4b6e065f4f405656091d2a413e4e164a333b131b123b7934382046545d365d0c3a4a1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Go3 Sport 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/go3-sport-1-67d7ab5ff2.png?ref=skym3u.dev" provider="skym3u.dev",Go3 Sport 1
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6b03694c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Go3 Sport 1 (1080p)
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Jordan Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jordan-sport-7fe0dba677.png?ref=skym3u.dev" provider="skym3u.dev",Jordan Sport
+https://go.skym3u.dev/live/46228/05061048426e1f180916002972095c030071551d161d0d4157572b1d350c1701141a38462e19420e085c010a003b52062c425b191a5b57715a6c1a0a102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="M4 Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/m4-sport-0c44a899ae.png?ref=skym3u.dev" provider="skym3u.dev",M4 Sport
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06404c532b5e32150c1d0706645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Maincast Cybersport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maincast-cybersport-0b6e1be6a1.png?ref=skym3u.dev" provider="skym3u.dev",Maincast Cybersport
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6b0a684c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Maincast Cybersport (1080p)
+http://stream.mcquack.net/487/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Maincast Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maincast-sport-0b6e1be6a1.png?ref=skym3u.dev" provider="skym3u.dev",Maincast Sport
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6b0b6f4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Marquee Sports Network" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/marquee-sports-network.png?ref=skym3u.dev" provider="skym3u.dev",Marquee Sports Network
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31531b141c315100010d4d0c565f707f3e111410101118462e19421522161f121d2d5847365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Marquee Sports Network
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="NBC Sports NOW" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nbc-sports-now-48667e2ba4.png?ref=skym3u.dev" provider="skym3u.dev",NBC Sports NOW
+https://go.skym3u.dev/live/46228/05061048426e1f180750033732134218552d54191c57000356473b542d0c0b115b1a2e426e5a06565c44445c4b660a5b6f020c44065f40705a3e1c46562d713e6025411707052f5e50174316014e.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Polsat Sport Premium 1 (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Polsat Sport Premium 2 (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Prima Sport Czechia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/prima-sport-czechia-dbfebefa13.svg?ref=skym3u.dev" provider="skym3u.dev",Prima Sport Czechia
+https://go.skym3u.dev/live/46228/050610480b7b1f45131406303b4b5d17072b4641161d0d415a403e1c3c195f5d454c7b19290954323a5c1b171b3252372c425b191a1c5f36413a305f427c2c382a3d4a415a0a3345.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ptv-sports.png?ref=skym3u.dev" provider="skym3u.dev",PTV Sports
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f010270620b354836253b1962124442140d1000165f2902096e1d5904005c1d32042a57114034263e602557501118.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Realitatea Sportiva" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/realitatea-sportiva-6bbe2678a1.png?ref=skym3u.dev" provider="skym3u.dev",Realitatea Sportiva
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e081b07003e5c060118170a581c31572b4c170014182242201f530743001b0a002b5a1e3e6d590f4147406547330e4b5f362c277d3d4a414c4d25581a0f5e074a5c5422.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Setanta Sports 1 Eurasia (1080p)
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/setanta-sports-2-eurasia-889272f9bb.svg?ref=skym3u.dev" provider="skym3u.dev",Setanta Sports 2 Eurasia
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6d016a4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Setanta Sports 2 Eurasia (1080p)
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png?ref=skym3u.dev",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png?ref=skym3u.dev",Sony Ten 2
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png?ref=skym3u.dev",Sony Ten 5
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport (Slovakia)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-slovakia-ac4cd477e7.png?ref=skym3u.dev" provider="skym3u.dev",Sport (Slovakia)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c17110307144531044412331b0e13117043043e4b58021d471d32042a57114034263e602557501118.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport 1 (576p)
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport 1 (Hungary)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-1-hungary-d42479c518.png?ref=skym3u.dev" provider="skym3u.dev",Sport 1 (Hungary)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06404a4230402b523a0d001a645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport 1 (Ukraine)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-1-ukraine-f80e930ad6.png?ref=skym3u.dev" provider="skym3u.dev",Sport 1 (Ukraine)
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6c0b6e4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport 1 Baltic" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-1-baltic-5a353d04ad.png?ref=skym3u.dev" provider="skym3u.dev",Sport 1 Baltic
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6b046e4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport 1 Baltic (1080p)
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport 2 (1080p)
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport 2 (Hungary)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-2-hungary-620b031a4a.png?ref=skym3u.dev" provider="skym3u.dev",Sport 2 (Hungary)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06404a4230402b513a0d001a645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport 3" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-3-be6e1e361e.png?ref=skym3u.dev" provider="skym3u.dev",Sport 3
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6c0b6c4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport 3 (1080p)
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport 4" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-4-19a83fa7a4.png?ref=skym3u.dev" provider="skym3u.dev",Sport 4
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6c0b6b4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport 4 (576p)
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport 5 (1080p)
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport-tv-c190ab4c27.png?ref=skym3u.dev" provider="skym3u.dev",Sport TV
+https://go.skym3u.dev/live/46228/050610480b7b1f06545c5a6e6d511b4452661e5e474b5957090a6f1d0c130a1701201d192c1b53011800481619265e5b2a1c500e18.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Sport TV (1080p)
+http://178.124.179.122:8080/SportTV/mpegts
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport1-d42479c518.png?ref=skym3u.dev" provider="skym3u.dev",Sport1
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c16151a063f071e590316430307040b335a1b2b1c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sport2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sport2-620b031a4a.png?ref=skym3u.dev" provider="skym3u.dev",Sport2
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c16151a063f697344460a0d0a070c012b1d056c470c481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sportivnyy" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sportivnyy-297f321660.png?ref=skym3u.dev" provider="skym3u.dev",Sportivnyy
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d023a72561b1a113c5e0a0157111a16412f5d2d170c131b0d645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sports First TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sports-first-tv.png?ref=skym3u.dev" provider="skym3u.dev",Sports First TV
+https://go.skym3u.dev/live/46228/05061048426e1f180750103b3801581f543c46011857000356473b542d0c0b115b1a2e426e18550e09171e09172d1c1b3c5a510f1b5f5612562c1b5741706b636a7e140701567540081b00411116553146.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Sports Television" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sports-television-f26dbc030c.png?ref=skym3u.dev" provider="skym3u.dev",Sports Television
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d023a710e5a071c30530b1b570c1d5e1d2c42301111165a1d25522413180b5f06534601344a056c471a0f0b45.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="SportsGrid" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sportsgrid-bb9303e31f.png?ref=skym3u.dev" provider="skym3u.dev",SportsGrid
+https://go.skym3u.dev/live/46228/05061048426e1f1810141b2d2b1652070c3b1d1b0710010e551c3e5f3e040c4b010264462d0a4f0a05001f4b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 1 (SD Feed)
+http://103.172.29.30:9991/stream/channelid/2135784742
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-sports-2.png?ref=skym3u.dev" provider="skym3u.dev",Star Sports 2
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31521b141c315100010d4d0c565f70412c130a17014623526e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png?ref=skym3u.dev",Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 2 (SD Feed)
+http://103.172.29.30:9991/stream/channelid/193330434
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports Select 1
+http://103.172.29.30:9991/stream/channelid/520033539
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Star Sports Select 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-sports-select-1.png?ref=skym3u.dev" provider="skym3u.dev",Star Sports Select 1
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f010270610b2237482624046415381b35293f2e2626720247365c500e161d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports Select 2 HD (720p)
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Suspilne. Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/suspilne-sport-54cbf8a593.png?ref=skym3u.dev" provider="skym3u.dev",Suspilne. Sport
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6b066b4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Suspilne. Sport (1080p)
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="T Sports 7" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/t-sports-7-8c482deb99.png?ref=skym3u.dev" provider="skym3u.dev",T Sports 7
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d023a721046444b2b580e1c140c02561c3c5d324c090c031166573244550e18001b0a002b1e597042580a175f5a2c4371020146677c20382914070140325615.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports 7
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev",Talk Sport
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Ten Cricket" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ten-cricket.png?ref=skym3u.dev" provider="skym3u.dev",Ten Cricket
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b3f532f3455140510000006005b0c00535619415f5a2952701b575d003c213a33125100313e573c555f424b5b59215e5c104a196c2a5d16060e265d5c0057070a4f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Tigo Sports (Honduras)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tigo-sports-honduras-35a2af98a0.png?ref=skym3u.dev" provider="skym3u.dev",Tigo Sports (Honduras)
+https://go.skym3u.dev/live/46228/050610480b7b1f06555c5a6e66531b4457681e5e464e595909026e1d2f0f041c5a157b5738445f080816134b1f6c46507c415f1203004671533a19.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Tigo Sports (Paraguay)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tigo-sports-paraguay-35a2af98a0.png?ref=skym3u.dev" provider="skym3u.dev",Tigo Sports (Paraguay)
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a456c6b4b0441547101594443515d090270730d244a311c132469121b591418004411003e50032c1f425a0f021c325831001c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Tigo Sports+
+http://45.170.130.224:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="TR Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tr-sport-8a0163340d.png?ref=skym3u.dev" provider="skym3u.dev",TR Sport
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d023a2b171b010033551d1a1402085753715b2b4c080c145b275f370e1916001212091b2c4746320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Trace Sport Stars" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/trace-sport-stars.png?ref=skym3u.dev" provider="skym3u.dev",Trace Sport Stars
+https://go.skym3u.dev/live/46228/05061048426e1f180f0d13372b0b5c1b0272441d141a061c495d2d467210040806012551201e180701120c0c5c2b45472f5e5512025a402b19325c470b7c2c382a3d4a415a0a3345.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Turkmenistan Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/turkmenistan-sport-714745951c.png?ref=skym3u.dev" provider="skym3u.dev",Turkmenistan Sport
+https://go.skym3u.dev/live/46228/05061048426e1f18020804373e4b41034b305e031c1706414d5f705a33104a061d447b026f0605135450180e0b32001d7156511d.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="TyC Sports USA" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tyc-sports-usa-afc1096aad.png?ref=skym3u.dev" provider="skym3u.dev",TyC Sports USA
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a45686f4b04465571025d41435b5f0902704233021c4a144479066e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="viju+ Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/viju-plus-sport-14b136d70c.png?ref=skym3u.dev" provider="skym3u.dev",viju+ Sport
+https://go.skym3u.dev/live/46228/050610480b7b1f03554a416c715705454b6e055c4f4e54580e1d2f5e3e1a4a044545271928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="viju+ Sport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/viju-plus-sport-14b136d70c.png?ref=skym3u.dev" provider="skym3u.dev",viju+ Sport
+https://go.skym3u.dev/live/46228/050610480b7b1f441716113e324b5816142a510c1e570d0a4d1d6c016c4c0c0b111133182c58435e4f00001c1f6c46463b5742.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",viju+ Sport (576p)
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",We Sport TV
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png?ref=skym3u.dev",Willow Sports
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Win Sports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/win-sports-632d301f5a.png?ref=skym3u.dev" provider="skym3u.dev",Win Sports
+https://go.skym3u.dev/live/46228/050610480b7b1f06505c5a6e6d541b445071025c45435a5f09007065162d4836253b19626e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Win Sports (1080p)
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 group-title="Sports" -1 tvg-name="Women's Sports Network" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/women-s-sports-network-d2bc35e249.png?ref=skym3u.dev" provider="skym3u.dev",Women's Sports Network
+https://go.skym3u.dev/live/46228/05061048426e1f1807574d3e3c06430d536a581e4c164d0c555d2a5639110a0b015a255335446109011605162d0c43072d46473420564728582d041c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1 tvg-name="World of Freesports" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/world-of-freesports-45c7da464f.png?ref=skym3u.dev" provider="skym3u.dev",World of Freesports
+https://go.skym3u.dev/live/46228/05061048426e1f180e051d312c11471004325d0a111002424e5d2d5e3b0c030307112e45310444121f1a05111e7241093447400e001d52325638061c472970233f3100581d1d221d0e51184a474b5a2d5d04164a103a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" -1  tvg-logo="https://imgur.com/79g2kMA.png",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Kids" -1 tvg-name="BeJoy.kids" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bejoy-kids-823648ad26.png?ref=skym3u.dev" provider="skym3u.dev",BeJoy.kids
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e081b05042d5f03101d0a1950463e1c3011024a1711215938455b55194b481619265e5b2a1c500e18.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Box Kids TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/box-kids-tv-0afc6e1914.png?ref=skym3u.dev" provider="skym3u.dev",Box Kids TV
+https://go.skym3u.dev/live/46228/050610480b7b1f0654545a676c4b014c4b6906554d495b5c1670106a142a21363d30645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1  tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png?ref=skym3u.dev",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network-hd.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b28581e0352390d11194a1b31570d271c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network (Pakistan)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/cartoon-network-pakistan.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network (Pakistan)
+https://go.skym3u.dev/live/46228/05061048426e1f18150b1025300b525b083545011a160d414d44650a6f5b524a06003953200642031f074406132d4707305c19050b4744304534420a0470333a2535560c432679500b17031917165c67450f40171f263256405b013a46.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network Arabic" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/cartoon-network-arabic.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network Arabic
+https://go.skym3u.dev/live/46228/050610480b7b1f06575d5a6e6f551b445471025a47435b5f0902704233021c4a14447e006e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network CEE Czech Republic" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network-cee-czech-republic-fa14df2c6d.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network CEE Czech Republic
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06404d572c4600000417011b24581e0553121b1c190e2d2b5a123a5c1b1b02524a335e2c1b1c5e6c2a6b7023124d195d231d07071b.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network CEE Poland" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network-cee-poland-fa14df2c6d.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network CEE Poland
+https://go.skym3u.dev/live/46228/050610480b7b1f0e514a456e6b4b0d404b6707554d49535816423353264c0455454d68452a125b55195d0f0004.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network CEE Ukraine" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network-cee-ukraine-fa14df2c6d.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network CEE Ukraine
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a456c6d4b0d424b6909554d495b5f16513e402b0c0a0b2a1a2e423604440d431a050117271d056c470c481d584a32042a41565629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1  tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png?ref=skym3u.dev",Cartoon Network HD
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network Latin America Brazil" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network-latin-america-brazil-fa14df2c6d.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network Latin America Brazil
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a45696d4b03414b6e015b5a3a223d6d7d107c002d2031223b197d6e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network Latin America South Atlantic" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network Latin America South Atlantic
+https://go.skym3u.dev/live/46228/050610480b7b1f06565c5a6e68571b4754681e5e4d435b5f0902704233021c4a144478576e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network Latin America South Pacific" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network Latin America South Pacific
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a4569684b045b546c08554d49535f16423353264c0455450368452a125b55195d0f0004.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoon Network UK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoon-network-uk.png?ref=skym3u.dev" provider="skym3u.dev",Cartoon Network UK
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b28581e1852390d11194a1b31570d271c59581b0b102c5c26020146713b3625.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoonito-5e341388e9.png?ref=skym3u.dev" provider="skym3u.dev",Cartoonito
+https://go.skym3u.dev/live/46228/05061048426e1f18010b1d31384b541e043251060f1c074157572b1d69505d5543437802725907575e5c0e105f3c56062b40550743021c6905675b0102676e62656049055b0b2f790b002a110d77581e7962192d4511362c463c0b0d050c36305526524207641c295c4b100d0159235878562519040c106c571f3d5c7a5a225e65315432394850266a3b32171a073a03215a2f21271a3d0a7f22546056542c6d330e7c1f0a367e053c4d2d2b744a10761a1b2b0f3403066508187f0b3a1c090c3b697a051544553c5b5d7f32712d366502373e0b233c2377411b0c6b320b21312e4852677d5e2c0d3e363d2259473f0c0118173e255a605f19583e1a541f17471d4f18596312352b29153b3644013c01620227595c365418290252186e3b30182b42155c00462a0b1a1b3d60673f795d13063d35061c7a3134257d3b12012e3b604512761a0a3d36021d2a58131b7f0c031a250f3f6b7e2c060179113f497e357227225b796671041213207120210c4b393b00282c6a412c476511252027093f6437010c5f0a142e07095146137927520e2c5a04275738075f15185e030901715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoonito Asia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoonito-asia-7c8159f019.png?ref=skym3u.dev" provider="skym3u.dev",Cartoonito Asia
+https://go.skym3u.dev/live/46228/050610480b7b1f54070a40712c0e4c120a715d015a150a195c1d3b5b2c08544a371b245b241957080b5c232921290045196675442c5c5c32522d0e5c5471326026685a471f173b00164c091712.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoonito CEE Czechia" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoonito-cee-czechia-c2ca264a25.png?ref=skym3u.dev" provider="skym3u.dev",Cartoonito CEE Czechia
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06404d572c4600010a0a181139572f0c691205090e0b5d2f5f09265e5d181a1d5e6c42674c4158263260267e1d5102.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoonito CEE Poland" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoonito-cee-poland-c2ca264a25.png?ref=skym3u.dev" provider="skym3u.dev",Cartoonito CEE Poland
+https://go.skym3u.dev/live/46228/050610480b7b1f0e514a456e6b4b0d404b6707554d49535816423353264c0455454c68452a125b55195d0f0004.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Cartoonito Latin America" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cartoonito-latin-america-7c8159f019.png?ref=skym3u.dev" provider="skym3u.dev",Cartoonito Latin America
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a45686c4b04474b6800554d49535f16423353264c04551d1c68452a125b55195d0f0004.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Chikitoonz" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",Chikitoonz
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a436f715705444b6701554d49535f16423353264c04554504645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1  tvg-logo="https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c?ref=skym3u.dev",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 group-title="Kids" -1  tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png?ref=skym3u.dev",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/discovery-kids.png?ref=skym3u.dev" provider="skym3u.dev",Discovery Kids
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b2f5f320859100901123a1936571b00535619415a5d3b5227415f002a6770203b0059471b78570614.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Discovery Kids Latin America" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/discovery-kids-latin-america-387f33e092.png?ref=skym3u.dev" provider="skym3u.dev",Discovery Kids Latin America
+https://go.skym3u.dev/live/46228/050610480b7b1f065b555a6d6d511b47556f1e5a4f4b51580e1d2f5e3e1a4a044544241928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Discovery Kids Latin America Chile" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/discovery-kids-latin-america-chile-387f33e092.png?ref=skym3u.dev" provider="skym3u.dev",Discovery Kids Latin America Chile
+https://go.skym3u.dev/live/46228/050610480b7b1f045b4a466d6b4b07465471015843435b5f0902704233021c4a14447a5c6e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Discovery Kids Latin America Colombia" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",Discovery Kids Latin America Colombia
+https://go.skym3u.dev/live/46228/050610480b7b1f045b4a456c6b4b07405571015e45435b5f0902704233021c4a14447b056e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel (Bulgaria)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-bulgaria-e837ad145a.png?ref=skym3u.dev" provider="skym3u.dev",Disney Channel (Bulgaria)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f544a456d6f4b04425c71015742435b5f0902704233021c4a14447a0662185d1f01401e4b163a45.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel (Czech Republic)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-czech-republic-9b9957f643.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Channel (Czech Republic)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c010c061a2e4f6e1b5a07151f021606715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel (Germany)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-germany-9b9957f643.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Channel (Germany)
+https://go.skym3u.dev/live/46228/05061048426e1f1810525a373015461904311e0c1a144c0b50413157263b4a0c1b102e4e6f0605135450180e0b32001d7156511d.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel (Hungary)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-hungary.png?ref=skym3u.dev" provider="skym3u.dev",Disney Channel (Hungary)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b025b546b1f031c0f06405d5b2c5c3a1a3a061d1525582407690e191d440c1c3b5610715f071e561040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel (Poland)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-poland-9b9957f643.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Channel (Poland)
+https://go.skym3u.dev/live/46228/050610480b7b1f065b515a6d6d521b46517101584c435b5f0102705636100b000c59285e20055803005e03015d365d0c3a4a1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="DISNEY CHANNEL [IN]" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-india.png?ref=skym3u.dev" provider="skym3u.dev",DISNEY CHANNEL [IN]
+https://go.skym3u.dev/live/46228/050610480b7b1f45040f1f2871095c0300705c06031c4c5e785d3a5c68060915405b02510c210056181e2a045d6e0a5f6b031a1f1d1040344e325c471d3b3a25.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel East" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-east.png?ref=skym3u.dev" provider="skym3u.dev",Disney Channel East
+https://go.skym3u.dev/live/46228/050610480b7b1f510c1600297106564f5d6f085f5a150a195c1d2656692b501c1746207d6e05440d3a1759000a6c6b476d00045d4047407c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel Latin America Center" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-latin-america-center-1b160711f2.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Channel Latin America Center
+https://go.skym3u.dev/live/46228/050610480b7b1f065b555a68674b0d5b546609554d49535f16423353264c0455111a645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel Latin America Mexico" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-latin-america-mexico-1b160711f2.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Channel Latin America Mexico
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a4569694b0c464b6e05594f405a56001d2f5e3e1a4a044512781928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel Latin America North" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-channel-latin-america-north-1b160711f2.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Channel Latin America North
+https://go.skym3u.dev/live/46228/050610480b7b1f06505c5a6e6d541b445071025c45435a5f0900707616302b202c59087e00257823205c020b163a4b46320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Channel Latin America Panregional" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",Disney Channel Latin America Panregional
+https://go.skym3u.dev/live/46228/050610480b7b1f03564a456c6b4b0441547101594443515d090270730d244a211c0725533834750e0d1d05001e705a063b574c4503004667142c044b5e6c2a7d37350f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-jr.png?ref=skym3u.dev" provider="skym3u.dev",Disney Jr
+https://go.skym3u.dev/live/46228/050610480b7b1f065a545a666c4b07475171045d5a3d2a3c7777061f15314a0c1b102e4e6f0605135450180e0b32001d7156511d.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-jr.png?ref=skym3u.dev" provider="skym3u.dev",Disney Jr
+https://go.skym3u.dev/live/46228/050610480b7b1f510c1600297106564f5d6f085f5a150a195c1d2656692b501c1746207d6e05440d3a1759000a6c6b476b030d5d5e1d472c142c044b5e6c2a7d37350f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Jr. Latin America" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/disney-jr-latin-america-1080p.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Jr. Latin America
+https://go.skym3u.dev/live/46228/050610480b7b1f065a545a6e6b4b04454b6e0955444f535f091d2f5e3e1a4a0445462f1928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Jr. Latin America North" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-jr-latin-america-north-044dc1f366.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Jr. Latin America North
+https://go.skym3u.dev/live/46228/050610480b7b1f065b555a68674b04414b6d06554149535f16423353264c04554247645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Junior (Czech Republic)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-junior-czech-republic-044dc1f366.svg?ref=skym3u.dev" provider="skym3u.dev",Disney Junior (Czech Republic)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5b4a466e6d4b04404b6a00401910150a16463a412b3c010c061a2e4f1e014308051c194a02335211335b471f405e002a0f7c1c594a326c267d341c42.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney Xd" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-xd.png?ref=skym3u.dev" provider="skym3u.dev",Disney Xd
+https://go.skym3u.dev/live/46228/050610480b7b1f510c1600297106564f5d6f085f5a150a195c1d2656692b501c1746207d6e05440d3a1759000a6c6b47680702595f1d472c142c044b5e6c2a7d37350f.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney XD (Poland)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-xd-poland-7c7a974680.svg?ref=skym3u.dev" provider="skym3u.dev",Disney XD (Poland)
+https://go.skym3u.dev/live/46228/050610480b7b1f065b515a6d6d521b46517101584c435b5f0102705636100b000c5933526e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Disney XD (United States)" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/disney-xd-united-states-7c7a974680.svg?ref=skym3u.dev" provider="skym3u.dev",Disney XD (United States)
+https://go.skym3u.dev/live/46228/050610480b7b1f0f5a4a4567684b04425c71015b4d435b5d0f1d6e01695b4a022d032257260a6e020d5c5a53456d101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="EKids" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",EKids
+https://go.skym3u.dev/live/46228/050610480b7b1f005b4a456f674b07415171015c41435b57000b7057340a01165607204f2c58434808161d.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Epic Kids Digital" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-kids-digital.png?ref=skym3u.dev" provider="skym3u.dev",Epic Kids Digital
+https://go.skym3u.dev/live/46228/05061048426e1f180007592b6709441054300956050a191a1753345332020c1f10106558241f19105d5c0604012b561a700103595c50056f56675e07506e666a37691a041108650500570f45575c506208565556166f6601045a063c1d1b4d15120a085d660b2f101f105a04275738075f15185d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="HappyKids" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/happykids-91a72604c3.png?ref=skym3u.dev" provider="skym3u.dev",HappyKids
+https://go.skym3u.dev/live/46228/05061048426e1f18070d186627014307002b405f1357000356473b542d0c0b115b1a2e426e025802090b4508412a0b4b2c594d065d461d3b5229.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Kids" -1 tvg-name="Hungama" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hungama.png?ref=skym3u.dev" provider="skym3u.dev",Hungama
+https://go.skym3u.dev/live/46228/050610480b7b1f0653575a6e6c501b47506c1e5c47435b5f0102707a0a2d22243835645f2f0f531e421e58104a7c4003265f071e40575629.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/al-quran-al-kareem-tv.png?ref=skym3u.dev" provider="skym3u.dev",Al Quran Al Kareem TV
+https://go.skym3u.dev/live/46228/050610480b7b1f5a4d081d293a4b5b101171430e4f485a5c0c1d335b29064a1400062a586e1b5a07151f021606715e5b2a0a1718054a5e6c42710b5745.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/al-quran-al-kareem-tv.png?ref=skym3u.dev" provider="skym3u.dev",Al Quran Al Kareem TV
+https://go.skym3u.dev/live/46228/05061048426e1f1800001a7238095a17003c511c01570204585f3e5b2506014b1b113f192d02400343160f165d2c521d3b5b6b1a1b415231183703416c2d3038267f105a100b2e1d0e51184a474b5a2d5d04164a103a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Islam TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/islam-tv.png?ref=skym3u.dev" provider="skym3u.dev",Islam TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31541b141c315100010d4d0c565f70501d502450110d3a1928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Islam TV Urdu" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/islam-tv.png?ref=skym3u.dev" provider="skym3u.dev",Islam TV Urdu
+https://go.skym3u.dev/live/46228/050610480b7b1f59060b063c2e01465b113040554d495b5f16066d066e54535646467c02705e0551595c0d574269500d3b05525208511c6d04695c05102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Islamic TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/islamic-tv.png?ref=skym3u.dev" provider="skym3u.dev",Islamic TV
+https://go.skym3u.dev/live/46228/05061048426e1f1807161f69271405030d311e08051a0701175c3a46700f0c13105b22452d0a5b0f0f2c1f135d365d0c3a4a1a065d460b7c4434165f002a71373626.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Madani Channel" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/madani-channel-urdu.png?ref=skym3u.dev" provider="skym3u.dev",Madani Channel
+https://go.skym3u.dev/live/46228/050610480b7b1f59060b063c2e01465b113040554d495b5f16066d066e54535646467c02705e0551595c0d574269500d3b05525208511c6d04695b0b102c342a3e630c1a100b20.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Madani TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/madani-tv.png?ref=skym3u.dev" provider="skym3u.dev",Madani TV
+https://go.skym3u.dev/live/46228/05061048426e1f181010063a3e081b1416365101140a171d5c53321c3c0c084a18152f572f02190b0d170a0b1b2b45462c5f5d0741435f3e4e3306414771326026685a471f173b00164c091712.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Madani TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/madani-tv.png?ref=skym3u.dev" provider="skym3u.dev",Madani TV
+https://go.skym3u.dev/live/46228/05061048426e1f181712073a31561b141c315100010d4d0c565f70486d57142906051d1928055203145d06560767101b344b59581b1d573a41.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Quran" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/quran.png?ref=skym3u.dev" provider="skym3u.dev",Quran
+https://go.skym3u.dev/live/46228/05061048426e1f18070b0331330a54114b2e451d14170a0c58473b5b304d060a185b3a52224457040806191713375e093e5c6b0a1d6c402a533e06411c322a2132240d5518416f054d0f1d41474b5a2d5d04164a103a29.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Quran" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/quran.png?ref=skym3u.dev" provider="skym3u.dev",Quran
+https://go.skym3u.dev/live/46228/05061048426e1f18150b1025300b525b083545011a160d414d44650a6f5b524a06003953200642031f074436132a57010e47460a001e026b05701f5e5226333a20245759471b6e101009141f574d1f305541.m3u8?s=5284&id=z88r.m3u
+#EXTINF:-1 group-title="Religious" -1 tvg-name="Sunnah TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sunnah-tv.png?ref=skym3u.dev" provider="skym3u.dev",Sunnah TV
+https://go.skym3u.dev/live/46228/050610480b7b1f5a4d081d293a4b5b101171430e4f485a5c0c1d335b29064a16001a25572944550e191d00091b2c4746320141534d4058265a6c1a1c573a29.m3u8?s=5284&id=z88r.m3u
